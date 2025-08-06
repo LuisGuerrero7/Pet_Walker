@@ -21,7 +21,7 @@ export const Footer = () => (
 					<h5>Redes Sociales</h5>
 					<ul className="list-unstyled">
 						<li>
-							<a href="https://www.instagram.com/tu_instagram" target="_blank" className="text-white">Instagram</a>
+							<a href="https://www.instagram.com/tu_instagram" target="_blank" className="text-white"><i className="fab fa-instagram"></i> Instagram</a>
 						</li>
 					</ul>
 				</div>

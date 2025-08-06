@@ -98,13 +98,18 @@ export const SearchWalker = () => {
                     <h3>Distrito</h3>
                     <select className="form-select" onChange={handleDistritoChange}>
                         <option value="">Selecciona tu distrito</option>
-                        <option value="Peru">Perú</option>
-                        <option value="Mexico">México</option>
-                        <option value="Colombia">Colombia</option>
-                        <option value="Venezuela">Venezuela</option>
-                        <option value="Ecuador">Ecuador</option>
-                        <option value="Bolivia">Bolivia</option>
-                        <option value="Chile">Chile</option>
+                        <option value="Barranco">Barranco</option>
+                                <option value="Jesús María">Jesús María</option>
+                                <option value="La Molina">La Molina</option>
+                                <option value="Lince">Lince</option>
+                                <option value="Magdalena del Mar">Magdalena del Mar</option>
+                                <option value="Miraflores">Miraflores</option>
+                                <option value="Pueblo Libre">Pueblo Libre</option>
+                                <option value="San Borja">San Borja</option>
+                                <option value="San Isidro">San Isidro</option>
+                                <option value="San Miguel">San Miguel</option>
+                                <option value="San Miguel">Santiago de Surco</option>
+                                <option value="San Miguel">Surquillo</option>
                     </select>
                 </div>
 
